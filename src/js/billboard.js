@@ -4,9 +4,9 @@
 //     }
 // };
 
-let apiToyStory = 'http://www.omdbapi.com/?s=toy+story&plot=full&apikey=256f52a2';
-let apiAvengers = 'http://www.omdbapi.com/?s=avengers&plot=full&apikey=256f52a2';
-let apiIronMan = 'http://www.omdbapi.com/?s=iron-man&plot=full&apikey=256f52a2';
+let apiToyStory = 'https://www.omdbapi.com/?s=toy+story&plot=full&apikey=256f52a2';
+let apiAvengers = 'https://www.omdbapi.com/?s=avengers&plot=full&apikey=256f52a2';
+let apiIronMan = 'https://www.omdbapi.com/?s=iron-man&plot=full&apikey=256f52a2';
 let btnToyStory = document.getElementById('toy-story');
 let btnAvengers = document.getElementById('avengers');
 let btnIronMan = document.getElementById('iron-man');
